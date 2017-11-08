@@ -1,0 +1,7 @@
+<aura:component implements="flexipage:availableForAllPageTypes,forceCommunity:availableForAllPageTypes,force:hasRecordId" access="global">
+    <ltng:require scripts="{!join(',',                          
+                          $Resource.D3Graphs + '/d3.v4.js')}"
+                  afterScriptsLoaded="{!c.init}"
+	/>
+    <div id="chart" style="text-align:center; zoom:0.5;font-size: x-large;font-weight: 800;"></div>
+</aura:component>
