@@ -8,5 +8,13 @@
         <members>D3Graphs</members>
         <name>AuraDefinitionBundle</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>StaticResource</name>
+    </types>
+    <types>
+        <members>D3Graphs</members>
+        <name>StaticResource</name>
+    </types>
     <version>41.0</version>
 </Package>
