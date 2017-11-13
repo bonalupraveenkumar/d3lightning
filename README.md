@@ -7,3 +7,5 @@ D3 library add SVG images for your graphs and make magic with your data. Use it 
 <a href="https://githubsfdeploy.herokuapp.com?owner=edutrujillo&amp;repo=d3lightning">
   <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" style="max-width:100%;">
 </a>
+
+You can see the whole 'how to use' explanation here https://spaindevelop.wordpress.com/2017/11/09/graficos-en-lightning/ (Spanish)
